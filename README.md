@@ -13,8 +13,6 @@ I'm a passionate Python developer with a strong foundation in web technologies l
 
 ### **My Skills**
 
-### **My Skills**
-
 | Category                  | My Stack                                                                                                                                                                                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 💻 **Languages** | <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />          |
